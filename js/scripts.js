@@ -6,14 +6,20 @@
 var index = 1;
 var pingPong = function(number){
   var numberArray = [];
-  if (userInput > 0)  {
-    else if (index % 15 = 0)
-  }
-    else if (index % 5 = 0) {
-  }
-    else if (index % 3 = 0) {
-  }
-    else
+  for (userInput >= 0; index++)
+    if  (index % 15 === 0;)  {
+      numberArray.push("Ping-Pong")
+      }
+      else if (index % 5 === 0;)  {
+        numberArray.push("Pong")
+      }
+      else if (index % 3 === 0;)  {
+        numberArray.push("Ping")
+      }
+    else return.userInput {
+      alert("Please enter a valid number!")
+    }
+
 
 
 //Front-End Logic Begins
