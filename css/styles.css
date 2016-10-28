@@ -22,3 +22,12 @@ body {
 .outputAnswer {
   display: none;
 }
+.btn {
+  width:125px;
+   margin-left:auto;
+   margin-right:auto;
+}
+.text {
+  margin-left: relative:auto;
+  margin-right: relative:auto;
+}
