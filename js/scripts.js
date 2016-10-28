@@ -1,7 +1,7 @@
 //Back-End Logic Begins
 var calculate = function(userInput)  {
   var numberArray = [];
-      for (var index = 1; index >= userInput; index++) {
+      for (var index = 1; index <= userInput; index++) {
         if  (index % 15 == 0)  {
           numberArray.push("Ping-Pong");
         } else if (index % 5 == 0)  {
