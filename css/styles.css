@@ -8,11 +8,13 @@ h2 {
 
 .well {
   background-color: #c1c1a0;
+  outline-color: #c3c4a2
 }
 
 body {
   background-color: grey;
 }
-.output {
+
+.outputAnswer {
   display: none;
 }
